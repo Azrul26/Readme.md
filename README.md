@@ -15,5 +15,5 @@ Saya Mahasiswa Teknik Informatika
 
 ## Screenshots
 
-![App Screenshot](https://drive.google.com/file/d/1XKcGFw-PNkUZ9hywNWbJTKYdt2njt-v_/view?usp=sharing)
+[![drive](https://drive.google.com/file/d/1XKcGFw-PNkUZ9hywNWbJTKYdt2njt-v_/view?usp=sharing)](https://drive.com/)
 
